@@ -1,19 +1,19 @@
 # Pathfinding Visualizer
 
-An interactive web application that visualizes pathfinding algorithms on a grid, helping users understand how different algorithms explore nodes and find the shortest path between a starting point and a destination.
+An interactive web application that visualizes pathfinding algorithms on a grid, helping users understand how different algorithms explore nodes and find paths between a starting point and a destination.
 
 ## Overview
 
-Pathfinding Visualizer is built with React and TypeScript. It provides an interactive grid where users can observe how pathfinding algorithms navigate obstacles and discover routes.
+Pathfinding Visualizer is built using React and TypeScript. It provides an interactive grid where users can explore how pathfinding algorithms navigate obstacles and discover routes.
 
-The application demonstrates graph traversal concepts through real-time visualizations, making algorithm behavior easier to understand.
+The application makes graph traversal concepts easier to understand through visual demonstrations.
 
 ## Tech Stack
 
 - **React** – Building interactive UI components.
-- **TypeScript** – Type-safe and maintainable code.
+- **TypeScript** – Writing maintainable and type-safe code.
 - **Vite** – Fast development server and build tool.
-- **Tailwind CSS** – Responsive and modern UI styling.
+- **Tailwind CSS** – Creating responsive and modern UI designs.
 
 ## Features
 
@@ -59,33 +59,13 @@ The application demonstrates graph traversal concepts through real-time visualiz
 
 5. Open the local URL displayed in your terminal.
 
-## Project Structure
-
-```text
-pathfinding-visualizer/
-├── public/
-├── src/
-│   ├── components/
-│   ├── algorithms/
-│   ├── assets/
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── index.html
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
-```
-
-*Note: Update the structure to match your actual project.*
-
 ## Learning Outcomes
 
 - Understanding graph traversal and pathfinding concepts.
-- Working with React components and TypeScript.
-- Implementing interactive UI elements.
+- Working with React and TypeScript.
+- Building interactive user interfaces.
 - Managing application state.
-- Building responsive interfaces using Tailwind CSS.
+- Creating responsive layouts with Tailwind CSS.
 
 ## Future Improvements
 
@@ -93,9 +73,8 @@ pathfinding-visualizer/
 - Implement algorithm speed controls.
 - Add maze generation.
 - Display algorithm statistics such as visited nodes and path length.
-- Improve visualization and user interaction.
+- Improve visualization and user interactions.
 
 ## Contributing
 
-Contributions, suggestions, and improvements are welcome.
-
+Suggestions and improvements are welcome. Feel free to explore the project and share feedback.
